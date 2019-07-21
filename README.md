@@ -1,1 +1,1 @@
-# Financial-Database-Management-System
+# College-Finance-Management
